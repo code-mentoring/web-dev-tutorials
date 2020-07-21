@@ -1,9 +1,5 @@
 # Add an Image and Give it Style  
 
-## Watch this tutorial on YouTube
-
-- Coming soon...
-
 ## Story
 
 One weekend, you're throwing a birthday party for your mother.
