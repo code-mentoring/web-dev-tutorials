@@ -18,16 +18,3 @@ As a front-end web developer on this team, you have been tasked with turning the
 ## Note from the Designer
 
 Pay particular attention to the positioning of the content, i.e. we need the text to be centered on the screen.
-
-## Challenge
-
-See comment "Why doesn't this affect img?".
-
-## Mentor Instructions
-
-- Begin by telling the story
-- Drag n drop "text.txt" into a web browser, point out lack of styles
-- Add structure using HTML 
-- No need for html/head/body tags; keep it simple
-- Add style using CSS
-- Lead to the challenge; engage learners by letting them solve this  
